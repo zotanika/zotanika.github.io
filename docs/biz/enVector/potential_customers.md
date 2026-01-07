@@ -79,6 +79,7 @@ Based on the Z Venture Capital portfolio and the `enVector` product capabilities
 - **Business:** Sleep and mental health data (Miracle Night).
 - **Why enVector:** Sleep patterns are biometric fingerprints.
 - **Tapping Strategy:** Pitch "Ethical AI." Build a brand around privacy-preserving sleep analysis.
+- **Note:** *Technical architecture is opaque in public sources. Direct outreach to Engineering team required.*
 
 ### [Aillis, Inc.](https://aillis.jp/) (#Healthcare, #Japan)
 - **Business:** Medical AI (Influenza diagnosis, etc.).
